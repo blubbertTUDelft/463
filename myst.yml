@@ -2,9 +2,7 @@ version: 1
 project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
-  authors: 
-    - name: Bink Lübbert
-    - name: 
+  author: Bink Lübbert
 
   date: 2025-11-05
   github: https://github.com/blubbertTUDelft/463.git
